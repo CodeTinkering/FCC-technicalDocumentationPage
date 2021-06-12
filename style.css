@@ -10,6 +10,19 @@ h1 {
   font-size: 2.4rem;
   font-family: 'Bodoni Moda', serif;
 }
+p {
+  font-size: 1.6rem;
+  font-family: 'Indie Flower', cursive;
+}
+li {
+  margin-left: 50px;
+  font-size: 1.6rem;
+  font-family: 'Indie Flower', cursive;
+}
+code {
+  font-size: 1.6rem;
+  margin-left: 50px;
+}
 /*
 font-family: 'Bodoni Moda', serif;
 font-family: 'Indie Flower', cursive;
