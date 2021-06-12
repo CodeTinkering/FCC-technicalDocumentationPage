@@ -6,6 +6,10 @@
 html {
   font-size: 62.5%;
 }
+h1 {
+  font-size: 2.4rem;
+  font-family: 'Bodoni Moda', serif;
+}
 /*
 font-family: 'Bodoni Moda', serif;
 font-family: 'Indie Flower', cursive;
